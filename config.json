@@ -1,0 +1,7 @@
+{
+    "geojson_path": "area.geojson",
+    "density_limit": 0.3,
+    "min_distance": 3,
+    "min_size": 10,
+    "max_size": 50
+}
